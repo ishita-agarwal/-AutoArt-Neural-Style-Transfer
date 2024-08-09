@@ -1,1 +1,1 @@
-# -AutoArt-Neural-Style-Transfer
+# AutoArt-Neural-Style-Transfer
